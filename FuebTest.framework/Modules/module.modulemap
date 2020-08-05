@@ -1,0 +1,6 @@
+framework module FuebTest {
+  umbrella header "FuebTest.h"
+
+  export *
+  module * { export * }
+}
